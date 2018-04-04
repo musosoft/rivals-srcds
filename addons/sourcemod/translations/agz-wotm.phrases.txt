@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"Player got point"
+	{
+        "#format"	"{1:s},{2:s},{3:d}"
+		"en"		"{1} obtained {lightgrey}1{default} point ({deeppink}{3}{default} total) for weapon of the month {lightgrey}[{2} + knife]{default} contest"
+	}
+	
+	"Top players"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"TOP {1} | your score: {2} points"
+	}
+	
+	"Top players item"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} ({2} points)"
+	}
+}

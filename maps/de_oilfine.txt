@@ -1,0 +1,12 @@
+Oil Refinery - Bomb/Defuse
+
+Counter-Terrorists: Prevent Terrorists
+from bombing vital point of refinery.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the vital point
+of refinery.
+
+by Roger Doom "M@sters" 

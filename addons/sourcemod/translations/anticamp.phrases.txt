@@ -1,0 +1,22 @@
+"Phrases"
+
+{
+	"Player camping location"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"{default}Player:{teamcolor} {1}{default} is camping with{green} {2}{default} @{green} {3}"
+		"de"			"{default}Spieler:{teamcolor} {1}{default} campt mit{green} {2}{default} @{green} {3}"
+		"hu"			"{default}{teamcolor}{1}{default} játékos táborozik ezzel a fegyverrel:{green} {2}{default} @{green} {3}"
+		"sk"			"{default}Hrac:{teamcolor} {1}{default} kempi s{green} {2}{default} @{green} {3}"
+		"cze"			"{default}Hrac:{teamcolor} {1}{default} kempi s{green} {2}{default} @{green} {3}"
+	}	
+	"Player camping"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{default}Player:{teamcolor} {1}{default} is camping with{green} {2}{default}"
+		"de"			"{default}Spieler:{teamcolor} {1}{default} campt mit{green} {2}{default}"
+		"hu"			"{default}{teamcolor}{1}{default} játékos táborozik ezzel a fegyverrel:{green} {2}{default}"
+		"sk"			"{default}Hrac:{teamcolor} {1}{default} kempi s{green} {2}{default}"
+		"cze"			"{default}Hrac:{teamcolor} {1}{default} kempi s{green} {2}{default}"
+	}	
+}

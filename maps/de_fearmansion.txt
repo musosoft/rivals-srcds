@@ -1,0 +1,18 @@
+Map by: Miles AKA Dr.Boo (drboo.j2@gmail.com)
+Name: de_fearmansion for the j2 Halloween mappack 2008
+Type: Bomb/Diffuse
+Sound: Dr.Boo, Doom 3 
+
+Description: The Boo's in the Haunted Hang Castle have organised a big contest for halloween this year! They made the left wing of their mansion extra haunted and creepy and the contestors must stay the entire night in the house. The one who keeps his pants dry till the morning wins. However, the crazy terrorists decided that this would be the time to blow some shit up.
+ 
+Special Thanks:
+-The J2 forums. The forums has tons of talented mappers and tons of mapping info
+http://www.joe.to
+-Fishy for the brown piano model
+ http://www.snarkpit.net (if someone knows fishy’s own website, tell me)
+-Johny[SRKA] for the guitar model
+ http://www.johny-srka.com
+-Foma ltd. for the sound in the floating books room
+ http://www.joe.to
+-AlphaKennyOne for the red water texture
+ http://www.joe.to

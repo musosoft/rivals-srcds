@@ -1,0 +1,45 @@
+"Phrases"
+{
+	"Observing"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"You are now observing {1} ({2})."
+		"es"	"Estás observando a {1} ({2})."
+		"ru"	"Вы ведёте наблюдение за {1} ({2})"
+	}
+	"Observe on Spec"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"When you are dead or switch to spectator you will observe {1} ({2})"
+		"es"	"Cuando estés muerto o te cambies a espectador observarás a {1} ({2})"
+		"ru"	"Если вы умрёте или перейдёте за зрителей то, будете наблюдать за {1} ({2})"
+	}
+	"Observe Failed"
+	{
+		"#format" "{1:s}"
+		"en"	"Unable to observe target {1}, unspecified error."
+		"es"	"No se ha podido observar al objetivo {1}, error no especificado."
+		"ru"	"Наблюдение за {1} невозможно, неизвестная ошибка."
+	}
+
+	"Target Left"
+	{
+		"#format" "{1:s}"
+		"en"	"You are no longer observing {1}, target has left the server."
+		"es"	"Ya no estás observando a {1}, el objetivo se ha ido del servidor."
+		"ru"	"Вы больше не наблюдаете за {1}, цель покинула сервер."
+	}
+	"End Observe"
+	{
+		"en"	"You are no longer observing anyone."
+		"es"	"Ya no estás observando a nadie."
+		"ru"	"Вы больше не за кем не наблюдаете."
+	}
+
+	"Unknown Target"
+	{
+		"en"	"Couldn't find the target, please try again."
+		"es"	"No se pudo encontrar al objetivo. Por favor, inténtalo de nuevo."
+		"ru"	"Невозможно найти цель, пожалуйста повторите попытку."
+	}
+}

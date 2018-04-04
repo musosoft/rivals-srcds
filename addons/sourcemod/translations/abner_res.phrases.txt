@@ -1,0 +1,29 @@
+"Phrases"
+{
+	"JoinMsg"
+	{
+		"en"		"Type {lightgreen}!res {default}to disable/enable the round end sounds."
+		"pt" 		"Digite {lightgreen}!res {default}para desativar/ativar os sons no fim da rodada."
+	}
+	"Selected"
+	{
+		"en"	  	"(X)"
+		"pt" 		"(X)"
+	}
+	"RES_ON"
+	{
+		"en"	  	"Sounds ON."
+		"pt"		"Sons Ativados."
+	}
+	"RES_OFF"
+	{
+		"en"	  	"No Sounds."
+		"pt" 		"Sem sons."
+	}
+	"mp3 print"
+	{
+		"#format"	 "{1:s}"
+		"en" 			 "Now playing {green}{1}"
+		"pt"			 "Tocando {green}{1}"
+	}
+}

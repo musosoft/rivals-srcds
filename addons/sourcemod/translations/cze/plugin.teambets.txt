@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"cze"	"Neni mozny vsadit kdyz je bomba polozena."
+	}
+	"Must Be On A Team To Vote"
+	{
+		"cze"	"Musis byt v teamu aby jsi uzavrel sazku."
+	}
+	"Already Betted"
+	{
+		"cze"	"Uz jsi vsadil tohle kolo."
+	}
+	"Must Be Dead To Vote"
+	{
+		"cze"	"Musis byt mrtvy aby jsi mohl vsadit."
+	}
+	"Invalid Team for Bet"
+	{
+		"cze"	"Nespravny team, prosim pouzi 'ct' nebo 't'."
+	}
+	"Invalid Bet Amount"
+	{
+		"cze"	"Pouzil jsi nespravne slovo. Prosim pouzi 'all', 'half', 'third' nebo cislo."
+	}
+	"Not Enough Money"
+	{
+		"cze"	"Nemas dostatek penez pro tuto sazku."
+	}
+	"Bet Made"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:d}"
+		"cze"	"Sazka odeslana. Kurzy jsou {1} - {2}. Stojis o vyhru ${3} za tvoji ${4} sazku."
+	}
+	"One Vs One"
+	{
+		"cze"	"Jeden proti jednomu! Uzavri sazku!"
+	}
+	"One Vs Many Start"
+	{
+		"#format"	"{1:s},{2:s}"
+		"cze"      "Je to {1} proti {2}! Uzavri sazku!"
+	}
+	"One Vs Many Winner"
+	{
+		"#format"	"{1:s},{2:d}"
+		"cze"	"{1} vyhral i pres prevahu! ziskal ${2} ze sazky!"
+	}
+	"Bet Won"
+	{
+		"#format"	"{1:d},{2:d}"
+		"cze"	"Vyhral jsi ${1} z tve sazky ${2}."
+	}
+	"Bet Lost"
+	{
+		"#format"	"{1:d}"
+		"cze"	"Prohal jsi ${1}. Zkus stesti priste."
+	}
+	"Players Are Dead"
+	{
+		"cze"	"Nemuzes vsazet kdyz je team mrtvy."
+	}
+	"Advertise Bets"
+	{
+		"cze"	"Napis 'bet team hodnota' pro sazku na vyherni team!"
+	}
+}

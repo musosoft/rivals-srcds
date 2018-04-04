@@ -1,0 +1,9 @@
+POZOR!!! 
+
+Mas zapnuty prikaz 'cl_disablehtmlmotd'
+
+>>> zmen si ho na cl_disablehtmlmotd 0 
+
+Diky ;)
+
+rivals.cz

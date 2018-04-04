@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"[AutoSlay]"
+	{
+		"en"		"{chartreuse}[{dodgerblue}AutoSlay{chartreuse}]{default} "
+	}
+	"Counter Terrorists have been spared for touching at least one hostage"
+	{
+		"en"		"{blue}Counter Terrorists{default} have been spared for touching at least one hostage"
+	}
+	"Counter Terrorists have been spared for wire used"
+	{
+		"en"		"{blue}Counter Terrorists{default} have been spared for wire used"
+	}
+	"Counter Terrorists have been slayed for not completing the objectives"
+	{
+		"en"		"{blue}Counter Terrorists{default} have been slayed for not completing the objectives"
+	}
+	"Terrorists have been slayed for not completing the objectives"
+	{
+		"en"		"{red}Terrorists{default} have been slayed for not completing the objectives"
+	}
+	"Terrorists have been spared for wire used"
+	{
+		"en"		"{red}Terrorists{default} have been spared for wire used"
+	}
+}

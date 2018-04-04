@@ -1,0 +1,39 @@
+"Phrases"
+{
+	"Drop MONEY"
+	{
+		"cze"	"Balicek s penezmi lezi na zemi, ber dokud je :)"
+		"sk"	"Balicek s peniazmi lezi na zemi, ber kym je :)"
+		"en"	"Package with money is lying on the ground, take it :)"
+	}
+	"Pickup MONEY"
+	{
+		"cze"	"{lightgreen}%s {default}zvedl balicek s 4000$"
+		"sk"	"{lightgreen}%s {default}zdvihol balicek s 4000$"
+		"en"	"{lightgreen}%s {default}picked up $4000 gift"
+	}
+	"Drop HEALTH"
+	{
+		"cze"	"Balicek s HPckami lezi na zemi, oziv se :)"
+		"sk"	"Balicek s HPckami lezi na zemi, oziv sa :)"
+		"en"	"Package with health is lying on the ground, take it :)"
+	}
+	"Pickup DESTRUCTION"
+	{
+		"cze"	"{lightgreen}%s {default}zvedl balicek ze ztracenym ptacatkem"
+		"sk"	"{lightgreen}%s {default}zdvihol balicek so stratenym vtacatkom"
+		"en"	"{lightgreen}%s {default}picked up package with missing bird"
+	}
+	"Hint"
+	{
+		"cze"	"W:Dopredu | Space:Letani | Shift:Rychlost"
+		"sk"	"W:Dopredu | Space:Litanie | Shift:Rychlost"
+		"en"	"W:Forward | Space:Fly | Shift:SpeedUP"
+	}
+	"Missing Bird"
+	{
+		"cze"	"Ztracene ptacatko"
+		"sk"	"Stratene vtacatko"
+		"en"	"Missing Bird"
+	}
+}

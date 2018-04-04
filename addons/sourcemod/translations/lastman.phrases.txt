@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"Lastman Menu"
+	{
+		"en"				"Say !lastman or /lastman to configure the last man standing sound"
+	}
+	"Lastman"
+	{
+		"en"				"%s is the last man standing on his team"
+	}
+	"Lastman Menu Cancelled"
+	{
+		"en"				"Client %d's Last Man menu was cancelled.  Reason: %d"
+	}
+	"Last Man Standing Sound"
+	{	
+		"en"				"Last Man Standing Sound"
+	}
+	"Enable"
+	{
+		"en"				"Enable"
+	}
+	"Disable"
+	{
+		"en"				"Disable"
+	}
+}

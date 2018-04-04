@@ -1,0 +1,1 @@
+Tu najdes Rivals SourceTV zaznamy, ktore si po nahrati do cstrike/ mozes v hre spustit cez Shift+F2

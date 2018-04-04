@@ -1,0 +1,13 @@
+MAP NAME:    knas_Sandland_CSS
+MAP TYPE:    DE - Bomb/Defusal
+PLAYERS:     16 T / 16 CT, 32 Players maximum
+
+MAPPER:      RunE
+WEB:         www.knas.net
+CONTACT:     rune@knas.net
+
+CREATED:     19:42 2005-01-29
+BUILD TIME:  ~200 Hrs.
+
+CREDITS:     All knas.net members, 
+             my friends and ofcourse my family!

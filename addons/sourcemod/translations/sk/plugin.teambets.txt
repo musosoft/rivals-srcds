@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"sk"	"Nie je mozne vsadit ked je bomba polozena."
+	}
+	"Must Be On A Team To Vote"
+	{
+		"sk"	"Musis byt v teame aby si uzavrel stavku."
+	}
+	"Already Betted"
+	{
+		"sk"	"Uz si si stavil toto kolo."
+	}
+	"Must Be Dead To Vote"
+	{
+		"sk"	"Musis byt mrtvy aby si mohol vsadit."
+	}
+	"Invalid Team for Bet"
+	{
+		"sk"	"Nespravny team, prosim pouzi 'ct' alebo 't'."
+	}
+	"Invalid Bet Amount"
+	{
+		"sk"	"Pouzil si nespravne slovo. Prosim pouzi 'all', 'half', 'third' alebo cislo."
+	}
+	"Not Enough Money"
+	{
+		"sk"	"Nemas dostatok penazi pre tuto stavku."
+	}
+	"Bet Made"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:d}"
+		"sk"	"Stavil si si. Kurzy su {1} - {2}. Stojis o vyhru ${3} z tvojej ${4} stavky."
+	}
+	"One Vs One"
+	{
+		"sk"	"Jeden proti jednemu! Uzavri stavku!"
+	}
+	"One Vs Many Start"
+	{
+		"#format"	"{1:s},{2:s}"
+		"sk"      "{1} proti {2}! Uzavri stavku!"
+	}
+	"One Vs Many Winner"
+	{
+		"#format"	"{1:s},{2:d}"
+		"sk"	"{1} vyhral napriek prevahe! ziskal ${2} zo stavky!"
+	}
+	"Bet Won"
+	{
+		"#format"	"{1:d},{2:d}"
+		"sk"	"Vyhral si ${1} z tvojej stavky ${2}."
+	}
+	"Bet Lost"
+	{
+		"#format"	"{1:d}"
+		"sk"	"Prehal si ${1}. Skus stastie nabuduce."
+	}
+	"Players Are Dead"
+	{
+		"sk"	"Nemozes stavkovat ked je team mrtvy."
+	}
+	"Advertise Bets"
+	{
+		"sk"	"Napis 'bet team hodnota' pre stavku na vyherny team!"
+	}
+}

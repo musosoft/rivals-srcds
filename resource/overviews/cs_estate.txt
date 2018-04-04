@@ -1,0 +1,9 @@
+"mapname"
+{
+material overviews/cs_estate // Hier tragt ihr den Pfad der vtf ein
+pos_x -2107 // Hier fügt ihr die X Koordinate der Werte aus der Konsole ein
+pos_y 1392 // Das selbe wie oben nur y Koordinaten
+scale 4.0 // Hier schreibt ihr rein welchen Scalefaktor ihr benutzt habt. Dabei handelt es sich um den Wert den ihr bei Punkt 8 in cl_leveloverview x eingefügt habt.
+rotate 0 // Falls ihr das Bild im Grafikprogramm gedreht habt
+zoom 1.3 // Der Zoomfaktor sprich wie klein/groß der Ausschnitt ist den ihr später sehen werdet
+} 

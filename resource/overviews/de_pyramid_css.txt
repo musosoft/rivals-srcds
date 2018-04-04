@@ -1,0 +1,9 @@
+"de_pyramid_css"
+{
+    "material"  "overviews/de_pyramid_css"  // texture file
+    "pos_x"        "-2725 "// X coordinate,
+    "pos_y" "4301"  // Y coordinate,
+    "scale"     "5.0"   // scale used when taking the screenshot
+    "rotate"    "1" // set to 1, if the map was rotated by 90 degrees in image editor
+    "zoom"      "1.3"   // optimal zoom factor if map is shown in full size
+}

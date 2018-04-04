@@ -1,0 +1,203 @@
+"Phrases"
+{
+	"Message Start"
+	{
+		"en"			"{chartreuse}[{dodgerblue}QuickDefuse{chartreuse}]{default}"
+	}
+	"Blue"
+	{
+		"en"			"Blue"
+		"sk"			"Modry"
+		"cze"			"Modry"
+		"ru" 			"Синий"
+		"pl"			"Niebieski"
+	}	
+	"Red"
+	{
+		"en"			"Red"
+		"sk"			"Cerveny"
+		"cze"			"Cerveny"
+		"ru" 			"Красный"
+		"pl"			"Czerwony"
+	}	
+	"Yellow"
+	{
+		"en"			"Yellow"
+		"sk"			"Zlty"
+		"cze"			"Zluty"
+		"ru" 			"Желтый"
+		"pl"			"Żółty"
+	}	
+	"Green"
+	{
+		"en"			"Green"
+		"sk"			"Zeleny"
+		"cze"			"Zeleny"
+		"ru" 			"Зеленый"
+		"pl"			"Zielony"
+	}	
+	"Black"
+	{
+		"en"			"Black"
+		"sk"			"Cierny"
+		"cze"			"Cerny"
+		"ru" 			"Черный"
+		"pl"			"Czarny"
+	}
+	"Blue Color"
+	{
+		"en"			"{darkblue}Blue{default}"
+		"sk"			"{darkblue}Modry{default}"
+		"cze"			"{darkblue}Modry{default}"
+		"ru" 			"{darkblue}Синий{default}"
+		"pl"			"{darkblue}Niebieski{default}"
+	}	
+	"Red Color"
+	{
+		"en"			"{darkred}Red{default}"
+		"sk"			"{darkred}Cerveny{default}"
+		"cze"			"{darkred}Cerveny{default}"
+		"ru" 			"{darkred}Красный{default}"
+		"pl"			"{darkred}Czerwony{default}"
+	}	
+	"Yellow Color"
+	{
+		"en"			"{yellow}Yellow{default}"
+		"sk"			"{yellow}Zlty{default}"
+		"cze"			"{yellow}Zluty{default}"
+		"ru" 			"{yellow}Желтый{default}"
+		"pl"			"{yellow}Żółty{default}"
+	}	
+	"Green Color"
+	{
+		"en"			"{lime}Green{default}"
+		"sk"			"{lime}Zeleny{default}"
+		"cze"			"{lime}Zeleny{default}"
+		"ru" 			"{lime}Зеленый{default}"
+		"pl"			"{lime}Zielony{default}"
+	}	
+	"Black Color"
+	{
+		"en"			"{black}Black{default}"
+		"sk"			"{black}Cierny{default}"
+		"cze"			"{black}Cerny{default}"
+		"ru" 			"{black}Черный{default}"
+		"pl"			"{black}Czarny{default}"
+	}
+	"Choose"
+	{
+		"en"			"Choose a Wire"
+		"sk"			"Vyber drotik"
+		"cze"			"Vyber dratek"
+		"ru" 			"Выберите провод"
+		"pl"			"Wybierz kabelek"
+	}
+	"t2"
+	{
+		"en"			"The CT's can try guess this for an instant defuse"
+		"sk"			"CT mozu skusit odstrihnut drotik pre okamite zneskodnenie"
+		"cze"			"CT muzu zkusit odstrihnout dratek pro okamity zneskodneni"
+		"ru" 			"Спецназ может попробовать немедленно разминировать"
+		"pl"			"CT może spróbować odgadnąć kabelek żeby szybko rozbroić bombe"
+	}
+	"t3"
+	{
+		"en"			"Exit, or ignore this for a random wire"
+		"sk"			"Ignoruj toto okno pre nahodny drotik"
+		"cze"			"Ignoruj todle okno pro nahodny dratek"
+		"ru" 			"Игнорируйте это, чтобы выбрался случайный провод"
+		"pl"			"Wyjdz, lub ignoruj to żeby wybrać kabelek domyślny"
+	}
+	"ct2"
+	{
+		"en"			"Ignore this to defuse normally"
+		"sk"			"Ignoruj toto okno pre normalne zneskodnenie"
+		"cze"			"Ignoruj todle okno pro normalne zneskodnenie"
+		"ru" 			"Игнорируйте это, чтобы разминировать обычным нетодом"
+		"pl"			"Zignoruj wybór by rozbroić normalnie"
+	}
+	"ct3"
+	{
+		"en"			"Get it right and the bomb is defused"
+		"sk"			"Strihni spravne a bombu zneskodnis"
+		"cze"			"Strihni spravne a bombu zneskodnis"
+		"ru" 			"Если угадаете, то бомба разминируется"
+		"pl"			"Wybierzesz właściwy to rozbroisz bombe"
+	}
+	"ct4"
+	{
+		"en"			"Get it wrong and the bomb instantly explodes"
+		"sk"			"Opatrne, inac bomba vybuchne!"
+		"cze"			"Opatrne, inac bomba vybuchne!"
+		"ru" 			"Если нет, то бомба немедленно взорвется"
+		"pl"			"Wybierzesz zły to bomba wybuchnie"
+	}
+	"ct5"
+	{
+		"en"			"With no defuse kit you have a 50% chance of the bomb exploding"
+		"sk"			"Bez kliestov mas polovicnu sancu na uspech"
+		"cze"			"Bez kliestov mas polovicnu sancu na uspech"
+		"ru" 			"Без набора для разминирования у тебя больше 50% шанса детонации"
+		"pl"			"Bez defuza masz 50% szans ze bomba wybuchnie"
+	}
+	"ct6"
+	{
+		"en"			"even if you choose the right wire"
+		"sk"			"aj ked zvolis spravny drotik"
+		"cze"			"aj ked zvolis spravny dratek"
+		"ru" 			"даже если выбор будет верным"
+		"pl"			"nawet jeśli wybierzesz odpowiedni kabelek"
+	}
+	"Exit"
+	{
+		"en"			"Exit"
+		"sk"			"Zavriet"
+		"cze"			"Zavriet"
+		"ru" 			"Выход"
+		"pl"			"Wyjdz"
+	}
+	"Wire Choice"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} You chose the {2} wire."
+		"sk"			"{1} Vybral si {2} drotik"
+		"cze"			"{1} Vybral jsi {2} dratek"
+		"ru"			"{1} Вы выбрали {2} штапель"
+		"pl"			"{1} Wybraleś {2} zszywka"
+	}
+	"Correct Cut"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"{1} {teamcolor}{2}{default} correctly cut the {3} wire for an instant C4 defusal (1:4 odds)."
+		"sk"			"{1} {teamcolor}{2}{default} spravne strihol {3} drotik pre okamzite zneskodnenie C4 (sanca 1:4)"
+		"cze"			"{1} {teamcolor}{2}{default} spravne strihl {3} dratek pro okamzity zneskodneni C4 (sance 1:4)"
+	}
+	"Incorrect Cut"
+	{
+		"#format"		"{1:s},{2:s},{3:s},{4:s}"
+		"en"			"{1} {teamcolor}{2}{default} detonated the C4 with an incorrect wire choice of {3} (3:4 odds). The correct wire was {4}."
+		"sk"			"{1} {teamcolor}{2}{default} odpalil C4, pretoze strihol nespravny {3} drotik (sanca 3:4). Spravny bol {4}."
+		"cze"			"{1} {teamcolor}{2}{default} odpalil C4, protoze strihl nespravny {3} dratek (sance 3:4). Spravny byl {4}."
+	}
+	"Correct Pull"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"{1} {teamcolor}{2}{default} correctly pull the {3} wire for an instant C4 defusal (1:8 odds)."
+		"sk"			"{1} {teamcolor}{2}{default} spravne odtrhol {3} drotik pre okamzite zneskodnenie C4 (sanca 1:8)"
+		"cze"			"{1} {teamcolor}{2}{default} spravne utrh {3} dratek pro okamzity zneskodneni C4 (sance 1:8)"
+	}
+	"Incorrect Pull"
+	{
+		"#format"		"{1:s},{2:s},{3:s},{4:s}"
+		"en"			"{1} {teamcolor}{2}{default} detonated the C4 with an incorrect wire choice of {3} (7:8 odds). The correct wire was {4}."
+		"sk"			"{1} {teamcolor}{2}{default} odpalil C4, pretoze odtrhol nespravny {3} drotik (sanca 7:8). Spravny bol {4}."
+		"cze"			"{1} {teamcolor}{2}{default} odpalil C4, protoze utrh nespravny {3} dratek (sance 7:8). Spravny byl {4}."
+	}
+	"Correct Pull without Kit"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"{1} {teamcolor}{2}{default} chose the correct wire ({3}) but the C4 still detonated!"
+		"sk"			"{1} {teamcolor}{2}{default} zvolil spravny ({3}) drotik, ale C4 aj tak vybuchla!"
+		"cze"			"{1} {teamcolor}{2}{default} zvolil spravny ({3}) dratek, ale C4 stejne vybuchla!"
+	}
+}

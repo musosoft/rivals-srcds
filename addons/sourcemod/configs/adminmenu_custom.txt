@@ -1,0 +1,157 @@
+// Custom admin menu commands.
+// For more information:
+//
+// http://wiki.alliedmods.net/Custom_Admin_Menu_%28SourceMod%29
+//
+// Note: This file must be in Valve KeyValues format (no multiline comments)
+//
+
+"Commands"
+{
+	"PlayerCommands"
+	{
+		"Kick with reason"
+		{
+			"cmd"				"sm_kick #1 @2"
+			"1"
+			{
+				"title"			"Kick"
+				"type"			"player"
+			}
+			"2"
+			{
+				"title"			"Kick"
+				"type"			"list"
+				"1"				"Abusive"
+				"2"				"Blocking teammates"
+				"3"				"Exploiting server"
+				"4"				"Mic spamming"
+				"5"				"Admin disrepect"
+				"6"				"Unacceptable Spray"
+				"7"				"Breaking Server Rules"
+				"8"				"Excessive ping / lags"
+				"9"				"Idling, blocking Server slot"
+			}
+		}
+		"Kick spectators"
+		{
+			"cmd"		"sm_kick @spec Full server, please rejoin with 'retry' command"
+		}
+	}
+	"Tresty" 
+	{ 
+		"admin"    "sm_ban" 
+ 
+		"TeamKill prvy trest [B:4h]" 
+		{ 
+			"cmd"    "sm_ban #1 240 Umyselny teamkilling, prve varovanie!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"TeamKill opakovane [B:1t]" 
+		{ 
+			"cmd"    "sm_ban #1 10080 Umyselny teamkilling, posledne varovanie pred Perma banom!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"TeamKill posledny trest / cudzinec [B:P]" 
+		{ 
+			"cmd"    "sm_ban #1 0 Opakovany umyselny teamkilling!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"Nevhodne chovanie / urazky prvy trest [M:6h]" 
+		{ 
+			"cmd"    "sm_mute #1 360 Nevhodne chovanie, prve varovanie!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"Nevhodne chovanie / urazky opakovane [B:1t]" 
+		{ 
+			"cmd"    "sm_mute #1 10080 Nevhodne chovanie, posledne varovanie pred Perma banom!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"Nevhodny nick prvy trest [R]" 
+		{ 
+			"cmd"    "sm_rename #1 Zmen si nick!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"Nevhodny nick druhy trest [K]" 
+		{ 
+			"cmd"    "sm_kick #1 Nevhodny nick, posledne varovanie pred banom!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"Nevhodny nick posledny trest [B:1h]" 
+		{ 
+			"cmd"    "sm_ban #1 60 Nevhodny nick, posledne varovanie pred tyzdnovym banom!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"Nevhodny spray prvy trest [K]" 
+		{ 
+			"cmd"    "sm_kick #1 Zmen si spray!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+		"Nevhodny spray posledny trest [B:1h]" 
+		{ 
+			"cmd"    "sm_ban #1 60 Nevhodny spray, posledne varovanie pred tyzdnovym banom!" 
+			"execute"  "player" 
+			"1" 
+			{ 
+				"type"     "player" 
+				"method"  "name" 
+				"title"    "Player:" 
+			} 
+		} 
+	}	
+}
+

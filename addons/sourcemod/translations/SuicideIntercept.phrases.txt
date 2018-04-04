@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"Denied"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your suicide request has been denied."
+	}
+	"SpecDenied"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your spectate request has been denied.  You will be moved to spectate at round end or when you die."
+	}
+	"JoinDenied"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your jointeam request has been denied.  You will be shown the jointeam menu at round end or when you die."
+	}
+	"JoinCDenied"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your joinclass request has been denied.  You will be allowed to pick a new class at round end or when you die."
+	}
+	"Seconds"
+	{
+		"#format"	"{1:.1f}"
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your suicide request will be granted in {lightgreen}{1} {green}seconds"
+	}
+	"SpecSeconds"
+	{
+		"#format"	"{1:.1f}"
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} You will be moved to spectate in {lightgreen}{1} {green}seconds"
+	}
+	"JoinSeconds"
+	{
+		"#format"	"{1:.1f}"
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} You will be able to join a different team in {lightgreen}{1} {green}seconds"
+	}
+	"JoinCSeconds"
+	{
+		"#format"	"{1:.1f}"
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} You will be able to pick a new class in {lightgreen}{1} {green}seconds"
+	}
+	"Intercepted"
+	{
+		"en"			"Suicide Intercepted"
+	}
+	"SpecIntercepted"
+	{
+		"en"			"Spectate Request Intercepted"
+	}
+	"JoinIntercepted"
+	{
+		"en"			"Jointeam Request Intercepted"
+	}
+	"JoinCIntercepted"
+	{
+		"en"			"Joinclass Request Intercepted"
+	}
+	"RequestGranted"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your suicide request has been granted"
+	}
+	"Granted"
+	{
+		"en"			"Suicide Granted"
+	}
+	"SpecRequestGranted"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your spectate request has been granted, enjoy your visit."
+	}
+	"JoinRequestGranted"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your jointeam request has been granted, pick your team and get back in the fight."
+	}
+	"JoinCRequestGranted"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your joinclass request has been granted, pick your class and get back in the fight."
+	}
+	"Request"
+	{
+		"#format"	"{1:s}"
+		"en"			"{green}Type {lightgreen}!cancel {green}to cancel your {1} request."
+	}
+	"Requests Cancelled"
+	{
+		"en"			"{chartreuse}[{dodgerblue}AntiSelfKill{chartreuse}]{default} Your request has been cancelled."
+	}
+	"No Requests"
+	{
+		"en"			"You don't have any pending requests"
+	}
+}

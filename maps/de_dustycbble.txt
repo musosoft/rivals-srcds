@@ -1,0 +1,5 @@
+by Septimius A.I. Cluj-Napoca Romania
+
+CREDITS:
+David Johnston author of de_cbble for CS1.6
+Valve sofware de_cbble for CSS,textures and the vmf file provided with source SDK

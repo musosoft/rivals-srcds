@@ -1,0 +1,55 @@
+"umc_mapcycle" { "all" { "maps_invote" "5"
+
+
+"$2000$"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_small"		}
+"3mc_training"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_small"		}
+"aim_awp-ak-colt"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_awp-ak_colt"		}
+"aim_deagle_fix"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_deagle"		}
+"aim_deagle_ultra"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_deagle"		}
+"aim_deagle7k"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_deagle"		}
+"cs_estate"	{	"min_players"	"6"	"max_players"	"18"	"command"	"cfg_cs"		}
+"cs_italy"	{	"min_players"	"0"	"max_players"	"18"	"command"	"cfg_cs"		}
+"cs_office"	{	"min_players"	"0"	"max_players"	"18"	"command"	"cfg_cs"		}
+"de_alexandra2"	{	"min_players"	"18"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_arabic"	{	"min_players"	"6"	"max_players"	"18"	"command"	"cfg_de"		}
+"de_aztec"	{	"min_players"	"9"	"max_players"	"22"	"command"	"cfg_de"		}
+"de_boston"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_cache_csgo"	{	"min_players"	"15"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_cbble"	{	"min_players"	"6"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_cefalu"	{	"min_players"	"18"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_contra"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_cpl_mill"	{	"min_players"	"18"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_dust2"	{	"min_players"	"0"	"max_players"	"18"	"command"	"cfg_dust2"		}
+"de_hiekka_v3"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_chateau"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_inferno"	{	"min_players"	"0"	"max_players"	"26"	"command"	"cfg_de"		}
+"de_kabul3"	{	"min_players"	"11"	"max_players"	"26"	"command"	"cfg_de"		}
+"de_kismayo"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_losttemple_pro"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_losttemple2"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_mirage_rc1"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_new_sultan"	{	"min_players"	"18"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_nightfever"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_nuke"	{	"min_players"	"0"	"max_players"	"26"	"command"	"cfg_de"		}
+"de_piranesi"	{	"min_players"	"6"	"max_players"	"26"	"command"	"cfg_de"		}
+"de_port"	{	"min_players"	"11"	"max_players"	"22"	"command"	"cfg_de"		}
+"de_pyramid_css"	{	"min_players"	"15"	"max_players"	"26"	"command"	"cfg_de"		}
+"de_red_roofs"	{	"min_players"	"15"	"max_players"	"26"	"command"	"cfg_de"		}
+"de_rose"	{	"min_players"	"18"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_russka"	{	"min_players"	"15"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_scud_pro"	{	"min_players"	"18"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_season"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_strata"	{	"min_players"	"18"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_sultan2"	{	"min_players"	"11"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_train" 	{	"min_players"	"9"	"max_players"	"26"	"command"	"cfg_de"		}
+"de_tuscan" 	{	"min_players"	"9"	"max_players"	"29"	"command"	"cfg_de"		}
+"de_villa"	{	"min_players"	"9"	"max_players"	"26"	"command"	"cfg_de"		}
+"fy_buzzkill_css"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_small"		}
+"fy_pool_day_reloaded"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_small"		}
+"fy_poolparty_v3"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_poolparty_v3"		}
+"fy_snow"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_small"		}
+"fy_twotowers_v2"	{	"min_players"	"0"	"max_players"	"10"	"command"	"cfg_small"		}
+"knas_Sandland_CSS"	{	"min_players"	"11"	"max_players"	"26"	"command"	"cfg_de"		}
+
+
+}}

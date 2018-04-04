@@ -1,0 +1,167 @@
+﻿"Phrases"
+{
+	"Player agrees"
+	{
+		"en"            "agrees to knife to the death!"
+		"sk"            "Prijal súboj!"
+		"cze"           "Přijal souboj!"
+	}
+	"Player disagrees"
+	{
+		"en"            "is a big chicken!"
+		"sk"            "Je srab!"
+		"cze"           "Je srab!"
+	}
+	"Knife menu title"
+	{
+		"en"            "Last Man Standing Knife Fight!"
+		"sk"            "Posledný hráč vyhráva súboj!"
+		"cze"            "Poslední hráč vyhráva souboj!"
+	}
+	"Knife question"
+	{
+		"en"            "Do you want to knife it out?"
+		"sk"            "Chceš to s nožom?"
+		"cze"           "Chceš to s nozem?"
+	}
+	"Yes option"
+	{
+		"en"            "Yes, Fight to the death!"
+		"sk"            "Ano, chcem bojovať!"
+		"cze"           "Ano, chci bojovat!"
+	}
+	"No option"
+	{
+		"en"            "No, I'm a chicken!"
+		"sk"            "Nie som veľká lowka!"
+		"cze"           "Ne sem velká lowka!"
+	}
+	"Both agree"
+	{
+		"en"            "Both Players Agreed!  Fight to the death!"
+		"sk"            "Hráči prijali súboj! Súboj sa začína!"
+		"cze"           "Hráči přijali souboj! Souboj se začína!"
+	}
+	"1v1 situation"
+	{
+		"en"            "Last Man Standing!"
+		"sk"            "Posledný muž nažive!"
+		"cze"           "Poslední muž nažive!"
+	}
+	"beat"
+	{
+		"en"            "beat"
+		"sk"            "porazil"
+		"cze"           "porazil"
+	}
+	"win battle"
+	{
+		"en"            "to win the battle!"
+		"sk"            "do výhry!"
+		"cze"           "do výhry!"
+	}
+	"Time remaining"
+	{
+		"en"            "Fight Time Remaining"
+		"sk"            "Do konca súboja"
+		"cze"           "Do konce suboje"
+	}
+	"Fight draw"
+	{
+		"en"            "Time expired!  The fight was a draw!"
+		"sk"            "Čas sa skončil! Je to remíza"
+		"cze"           "Cas skončil! Je to remíza"
+	}
+	"Items won"
+	{
+		"en"            "You won the following:"
+		"en"            "Vyhral si"
+		"cze"           "Vyhral si"
+	}
+	"Health"
+	{
+		"en"            "Health"
+		"sk"            "Zivot"
+		"cze"            "Zivot"
+	}
+	"Money"
+	{
+		"en"            "Money"
+		"sk"            "Peniaze"
+		"cze"            "Penize"
+	}
+	"Speed"
+	{
+		"en"            "Speed"
+		"sk"            "Rychlost"
+		"cze"            "Rychlost"
+	}
+	"Removing weapons"
+	{
+		"en"            "Removing all weapons"
+		"sk"            "Berie všetky zbrane"
+		"sk"            "Bere všechny zbrane"
+	}
+	"Prepare fight"
+	{
+		"en"            "Prepare to fight in"
+		"sk"            "Pripravte sa na súboj za"
+		"cze"           "Připravte se na souboj za"
+	}
+	"Fight"
+	{
+		"en"            "FIGHT!!!"
+		"sk"            "BOJUJ!!!"
+		"cze"           "BOJUJ!!!"
+	}
+	"KnifeFight settings"
+	{
+		"en"            "[KnifeFight] Settings"
+		"sk"            "[KnifeFight] Nastavenie"
+		"cze"           "[KnifeFight] Nastavení"
+	}
+	"Play fight songs"
+	{
+		"en"            "Play fight songs"
+		"sk"            "Prehrať songy"
+		"cze"           "Přehrát songy"
+	}
+	"Selected"
+	{
+		"en"            "[√]"
+	}
+	"NotSelected"
+	{
+		"en"            "[ ]"
+	}
+	"Show fight panel"
+	{
+		"en"            "Show fight panel"
+		"sk"            "Ukázať fight panel"
+		"cze"           "Ukázat fight panel"
+	}
+	"Restore fight menu"
+	{
+		"en"            "say !kfmenu and press 2 to restore fight menu."
+		"sk"            "napíš !kfmenu a stlač 2 pre znovu prijatie súboja"
+		"cze"           "napíš !kfmenu a stlač 2 pre znovu přijetí souboje"
+	}
+	"Always agree to knife fight"
+	{
+		"en"            "Always agree to knife fight"
+		"sk"            "Vždy schváliť súboj"
+		"cze"           "Vždy schválit souboj"
+	}
+	"Always disagree to knife fight"
+	{
+		"en"            "Always disagree to knife fight"
+		"sk"            "Vždy odmietnúť súboj"
+		"cze"           "Vzdy odmitnout souboj"
+	}    
+	"has won"
+	{
+		"en"            "has won knife fight"
+		"sk"            "vyhral súboj!"
+		"cze"           "vyhral souboj!"
+	}    
+}

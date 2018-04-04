@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"Drop MONEY"
+	{
+		"cze"	"Balicek s penezmi lezi na zemi, ber dokud je :)"
+		"sk"	"Balicek s peniazmi lezi na zemi, ber kym je :)"
+		"en"	"Package with money is lying on the ground, take it :)"
+	}
+	"Pickup MONEY"
+	{
+		"cze"	"{lightgreen}%s {default}zvedl balicek s 4000$"
+		"sk"	"{lightgreen}%s {default}zdvihol balicek s 4000$"
+		"en"	"{lightgreen}%s {default}picked up $4000 gift"
+	}
+	"Drop HEALTH"
+	{
+		"cze"	"Balicek s HPckami lezi na zemi, oziv se :)"
+		"sk"	"Balicek s HPckami lezi na zemi, oziv sa :)"
+		"en"	"Package with health is lying on the ground, take it :)"
+	}
+	"Pickup HEALTH"
+	{
+		"cze"	"{lightgreen}%s {default}zvedl balicek se 100HP"
+		"sk"	"{lightgreen}%s {default}zdvihol balicek so 100HP"
+		"en"	"{lightgreen}%s {default}picked up $4000 gift"
+	}
+}

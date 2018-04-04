@@ -1,0 +1,155 @@
+"Phrases"
+{
+	"announce"
+	{
+		"en"		"Say !c4timer or /c4timer to set your c4 timer sounds preferences"
+		"sk"		"Napis !c4timer alebo /c4timer pre nastavenie C4 preferenci"
+		"cze"		"Napis !c4timer nebo /c4timer pro nastaveni C4 preferenci"
+	}
+	"enable sound"
+	{
+		"en"		"Enable c4 Sounds"
+		"sk"		"Povolit c4 Zvuky"
+		"cze"		"Povolit c4 Zvuky"
+	}
+	"disable sound"
+	{
+		"en"		"Disable c4 Sounds"
+		"sk"		"Zakazat c4 Zvuky"
+		"cze"		"Zakazat c4 Zvuky"
+	}
+	"enable chat"
+	{
+		"en"		"Enable Chat Timer"
+		"sk"		"Povolit chatovy casovac"
+		"cze"		"Povolit chatovy casovac"
+	}
+	"disable chat"
+	{
+		"en"		"Disable Chat Timer"
+		"sk"		"Zakazat chatovy casovac"
+		"cze"		"Zakazat chatový casovac"
+	}
+	"enable hud"
+	{
+		"en"		"Enable HUD Timer"
+		"sk"		"Povolit HUD casovac"
+		"cze"		"Povolit HUD casovac"
+	}
+	"disable hud"
+	{
+		"en"		"Disable HUD Timer"
+		"sk"		"Zakazat HUD casovac"
+		"cze"		"Zakazat HUD casovac"
+	}
+	"enable center"
+	{
+		"en"		"Enable Center Timer"
+		"sk"		"Povolit casovac v strede obrazovky"
+		"cze"		"Povolit casovac v strede obrazovky"
+	}
+	"disable center"
+	{
+		"en"		"Disable Center Timer"
+		"sk"		"Zakazat casovac v strede obrazovky"
+		"cze"		"Zakazat casovac v strede obrazovky"
+	}
+	"c4 menu"
+	{
+		"en"		"c4 Timer Menu"
+	}
+	"exit"
+	{
+		"en"		"Exit"
+		"sk"		"Odist"
+		"cze"		"Odejit"
+	}
+	"bomb exploded"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} successfully destroyed the target"
+		"sk"		"{1} uspesne znicil ciel"
+		"cze"		"{1} uspesne znicil cil"
+	}
+	"bomb defused"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} successfully defused the c4"
+		"sk"		"{1} uspesne odistil C4"
+		"cze"		"{1} uspesne odjistil C4"
+	}
+	"countdown 1"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 2"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 3"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 4"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 5"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 6"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 7"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 8"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 9"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 10"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 20"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1} second until explosion"
+		"sk"		"{1} sekund do explozie"
+		"cze"		"{1} sekund do exploze"
+	}
+	"countdown 30"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1} second until explosion"
+		"sk"		"{1} sekund do explozie"
+		"cze"		"{1} sekund do exploze"
+	}
+	"Terrorist"
+	{
+		"#format"	""
+		"en"		"Terrorist"	
+	}
+	"Counter-Terrorist"
+	{
+		"#format"	"{1:i}"
+		"en"		"Counter-Terrorist"
+	}
+}
