@@ -35,7 +35,7 @@ char g_NewName[MAXPLAYERS+1][MAX_NAME_LENGTH];
 
 void PerformRename(int client, int target)
 {
-	LogAction(client, target, "\"%L\" renamed \"%L\" to \"%s\")", client, target, g_NewName[target]);
+	LogAction(client, target, "\"%L\" renamed \"%L\" (to \"%s\")", client, target, g_NewName[target]);
 
 	SetClientName(target, g_NewName[target]);
 
@@ -113,6 +113,8 @@ public int MenuHandler_Rename(Menu menu, MenuAction action, int param1, int para
 		}		
 		DisplayRenameTargetMenu(param1);
 	}
+
+	return 0;
 }
 
 void RandomizeName(int client)
